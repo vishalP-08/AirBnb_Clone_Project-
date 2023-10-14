@@ -11,7 +11,7 @@
 
 ### Demo Screeshots
 
-![Airbnb Desktop Demo]( .Airbnb images/Collage Maker-14-Oct-2023-07-53-PM-6240.jpg "Desktop Demo")
+![Airbnb Desktop Demo](./Airbnb images/Collage Maker-14-Oct-2023-07-53-PM-6240.jpg "Desktop Demo")
 
 
 
